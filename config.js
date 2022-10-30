@@ -150,13 +150,13 @@ global.urlnya = "-"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 822-8721-9167'
+global.phn = '+62 812-7101-0619'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '66801944580'
-global.nomorown = '6282287219167'
-global.namebot = 'Sad-Bot'
-global.nameown = 'Papah-Chan'
+global.nomorbot = '6681271010619'
+global.nomorown = '6281271010619'
+global.namebot = '「𝑺𝒉𝒖𝒓𝒂𝒏𝑩𝑶𝑻𝒁 」'
+global.nameown = '𒈞𝙎𝙪𝙧𝙖𝙣𝙩𝙖 𝘼𝙙𒈞'
 global.thumb2 = fs.readFileSync('./papah.jpg')
 
 /*=========== FAKE SIZE ===========*/
